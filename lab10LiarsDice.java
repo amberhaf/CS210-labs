@@ -3,7 +3,7 @@ This is the probability that  nobody has that dice. */
 
 import java.util.*;
 
-public class lab10 {
+public class lab10LiarsDice {
     public static void main(String args[] ) throws Exception {
         Scanner sc=new Scanner(System.in);
             

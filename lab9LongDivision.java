@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class lab9 {
+public class lab9LongDivision {
     public static void main(String args[] ){
         Scanner myscanner = new Scanner(System.in);
         int numerator = myscanner.nextInt();
